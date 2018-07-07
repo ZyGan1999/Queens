@@ -15,39 +15,45 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\Queens代码框架\bfsqueensolver.h">
+    <ClInclude Include="..\..\..\..\Desktop\Queens\bfsqueensolver.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Desktop\Queens代码框架\dfsqueensolver.h">
+    <ClInclude Include="..\..\..\..\Desktop\Queens\bruteforcequeensolver.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Desktop\Queens代码框架\queennode.h">
+    <ClInclude Include="..\..\..\..\Desktop\Queens\dfsqueensolver.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Desktop\Queens代码框架\queensolver.h">
+    <ClInclude Include="..\..\..\..\Desktop\Queens\queennode.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Desktop\Queens代码框架\queenstate.h">
+    <ClInclude Include="..\..\..\..\Desktop\Queens\queensolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\Queens\queenstate.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\Queens代码框架\bfsqueensolver.cpp">
+    <ClCompile Include="..\..\..\..\Desktop\Queens\bfsqueensolver.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\Queens代码框架\dfsqueensolver.cpp">
+    <ClCompile Include="..\..\..\..\Desktop\Queens\bruteforcequeensolver.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\Queens代码框架\queennode.cpp">
+    <ClCompile Include="..\..\..\..\Desktop\Queens\dfsqueensolver.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\Queens代码框架\queensolver.cpp">
+    <ClCompile Include="..\..\..\..\Desktop\Queens\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\Queens代码框架\queenstate.cpp">
+    <ClCompile Include="..\..\..\..\Desktop\Queens\queennode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\Queens代码框架\main.cpp">
+    <ClCompile Include="..\..\..\..\Desktop\Queens\queensolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\Queens\queenstate.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

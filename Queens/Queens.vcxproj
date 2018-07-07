@@ -19,19 +19,21 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\Queens代码框架\bfsqueensolver.h" />
-    <ClInclude Include="..\..\..\..\Desktop\Queens代码框架\dfsqueensolver.h" />
-    <ClInclude Include="..\..\..\..\Desktop\Queens代码框架\queennode.h" />
-    <ClInclude Include="..\..\..\..\Desktop\Queens代码框架\queensolver.h" />
-    <ClInclude Include="..\..\..\..\Desktop\Queens代码框架\queenstate.h" />
+    <ClInclude Include="..\..\..\..\Desktop\Queens\bfsqueensolver.h" />
+    <ClInclude Include="..\..\..\..\Desktop\Queens\bruteforcequeensolver.h" />
+    <ClInclude Include="..\..\..\..\Desktop\Queens\dfsqueensolver.h" />
+    <ClInclude Include="..\..\..\..\Desktop\Queens\queennode.h" />
+    <ClInclude Include="..\..\..\..\Desktop\Queens\queensolver.h" />
+    <ClInclude Include="..\..\..\..\Desktop\Queens\queenstate.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\Queens代码框架\bfsqueensolver.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Queens代码框架\dfsqueensolver.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Queens代码框架\main.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Queens代码框架\queennode.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Queens代码框架\queensolver.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Queens代码框架\queenstate.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Queens\bfsqueensolver.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Queens\bruteforcequeensolver.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Queens\dfsqueensolver.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Queens\main.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Queens\queennode.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Queens\queensolver.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Queens\queenstate.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
